@@ -1,7 +1,7 @@
 version: 1.0
 app:
   # configure endpoints
-  # endpoints: public
+  endpoints: public
   
   # build id to deploy
   # version: 1.0-SNAPSHOT-20230716015630
